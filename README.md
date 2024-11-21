@@ -1,5 +1,5 @@
 # Password checker
-Ceci est un outil basé sur python pour vérifier la solidité de vos mots de passes et vérifié si ils apparaissent comme compromis via une potentiel brèche
+Ceci est un outil basé sur python pour vérifier la solidité de vos mots de passes et vérifié si ils apparaissent comme compromis via une potentielle brèche
 
 ## Fonctionnalités
 - Test de la solité du mot de passe via 'Length, uppercase, lowercase, digits, special characters'...
