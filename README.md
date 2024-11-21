@@ -20,7 +20,7 @@ git clone https://github.com/F3mF3tal/password-checker-f3mf3tal.git
 pip install -r requirements.txt
 
 ## Utilisation
-Exécutez le programme avce la commande suivante :
+Exécutez le programme avec la commande suivante :
 
 - python src/password_checker_f3mf3tal.py
 
@@ -28,3 +28,5 @@ Suivez les instructions dans le terminal pour vérifier la solidité de votre mo
 
 ## Licence
 Ce projet est sous la licence MIT - voir le fichier LICENSE.txt et LICENCE.fr.txt pour plus de détails.
+
+Merci à vous, F3mF3tal <3
