@@ -1,0 +1,21 @@
+Licence MIT
+
+Copyright (c) 2024 F3mF3tal (HADJERAS Axel)
+
+Par la présente, il est accordé, gratuitement, à toute personne obtenant une copie
+de ce logiciel et des fichiers de documentation associés (le "Logiciel"), le droit de traiter
+le Logiciel sans restriction, y compris, mais sans s'y limiter, les droits
+d'utiliser, copier, modifier, fusionner, publier, distribuer, sous-licencier et/ou vendre
+des copies du Logiciel, et de permettre à des personnes auxquelles le Logiciel est fourni de le faire,
+sous réserve des conditions suivantes :
+
+La mention de copyright ci-dessus et cette permission doivent être incluses dans toutes
+les copies ou parties substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS AUCUNE GARANTIE D'AUCUNE SORTE, EXPRESSE OU
+IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER AUX GARANTIES DE COMMERCIALISATION,
+D'ADAPTATION À UN USAGE PARTICULIER ET DE NON-VIOLATION. EN AUCUN CAS LES
+AUTEURS OU LES DÉTENTIONS DE COPYRIGHT NE SERONT RESPONSABLES D'UNE RÉCLAMATION, DE DOMMAGES OU D'AUTRES
+RESPONSABILITÉS, QUELLE QU'EN SOIT LA NATURE, DANS UNE ACTION DE CONTRAT, TORT OU AUTRE, DÉCOULANT DE,
+OU EN LIEN AVEC LE LOGICIEL OU L'UTILISATION OU AUTRES TRAITEMENTS DANS
+LE LOGICIEL.
