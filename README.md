@@ -1,9 +1,8 @@
 # Password checker
-Ceci est un outil basé sur python pour vérifier la solidité de vos mots de passes et vérifié si ils apparaissent comme compromis via une potentielle brèche
+Ceci est un outil basé sur python pour vérifier la solidité de vos mots de passes.
 
 ## Fonctionnalités
 - Test de la solidité du mot de passe via 'Length, uppercase, lowercase, digits, special characters'...
-- Si le mot de passe apparait comme compromis en utilisant l'API de "Have I Been Pwned"
 - Ma signature sous forme de bannière ASCII au démarrage
 - Un menu simple et intuitif
 
